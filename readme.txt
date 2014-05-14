@@ -1,18 +1,19 @@
 === 30suns Service Health Dashboard ===
 Contributors: sozot
-Tags: status, service health, status dashboard, service health dashboard
+Tags: status, status page, service health, status dashboard, service health dashboard
 Requires at least: 3.0
-Tested up to: 3.5
+Tested up to: 3.9.1
+Donate link: https://wpspring.com/
 Stable tag: 1.0
 License: GPLv2 or later
 
-30suns makes it easy to start publishing incident reports on a service health dashboard.
+30suns makes it easy to start publishing incident reports on a status page.
 
 == Description ==
 
-30suns makes it easy to start publishing incident reports on a service health dashboard.
+30suns makes it easy to start publishing incident reports on a status page.
 
-This plugin makes it easy to embed your 30suns service health dashboard into a WordPress page using a <code>[thirtysuns]</code> shortcode. You'll need a [30suns.com Username](http://30suns.com/) to use it and you will need to define at least one service. Usernames are free to try with paid subscriptions available for businesses and commercial sites.
+This plugin makes it easy to embed your 30suns service health dashboard into a normal WordPress page or post using a <code>[thirtysuns]</code> shortcode. You'll need a [30suns.com Username](http://30suns.com/) to use it and you will need to define at least one service. Usernames are free to try with paid subscriptions available for businesses and commercial sites.
 
 = Benefits of Publishing a Service Health Dashboard =
 
@@ -24,7 +25,7 @@ Knowing your own service status is the first step and there are plenty of excell
 
 Publishing a service heath dashboard will improve communication with your users and can even result in fewer support requests during outages.
 
-30suns hosted service heath dashboard includes additional benefits such as:
+30suns hosted status page includes additional benefits such as:
 
 * Full-stack incident reporting, including Current Status, Status History and Scheduled Maintenance
 * Account-level and Service-specific RSS Feeds
@@ -46,6 +47,8 @@ That's it! When you publish incident reports on 30suns they will be immediately 
 2. An example of embedding a service health dashboard within WordPress using the default Twenty Twelve theme, this plugin and the sample Amazon Web Services dashboard. When you activate the plugin and add your 30suns username in the settings area you can embed your 30suns dashboard within any page on your site using the [thirtysuns] shortcode.
 
 == Changelog ==
+= 1.1 =
+* Supports WordPress 3.9
 
 = 1.0 =
 * First version, allows specifying 30suns username and allows embedding a user's status dashboard using the [thirtysuns] shortcode.

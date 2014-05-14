@@ -3,8 +3,8 @@
 /*
     Plugin Name: 30suns Service Health Dashboard
     Plugin URI: http://wordpress.org/plugins/30suns-service-health-dashboard/
-    Description: 30suns makes it easy to start logging service incidents on a status dashboard today. To get started: 1) Click the "Activate" link to the left of this description, 2) <a target="_blank" href="https://30suns.com/register/">Sign up for a 30suns account</a>, 3) Click the "Settings" link to the left of this description and save your username and 4) Create a page or post and enter the shortcode <code>[thirtysuns]</code>
-    Version: 1.0
+    Description: 30suns makes it easy to start logging service incidents on a status page. To get started: 1) Click the "Activate" link to the left of this description, 2) <a target="_blank" href="https://30suns.com/register/">Sign up for a 30suns account</a>, 3) Click the "Settings" link to the left of this description and save your username and 4) Create a page or post and enter the shortcode <code>[thirtysuns]</code>
+    Version: 1.1
     Author: Andy Sozot
     Author URI: https://sozot.com/
 */
