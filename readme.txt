@@ -3,7 +3,7 @@ Contributors: sozot
 Tags: status, status page, service health, status dashboard, service health dashboard
 Requires at least: 3.0
 Tested up to: 3.9.1
-Donate link: https://wpspring.com/
+Donate link: https://sozot.com/
 Stable tag: 1.0
 License: GPLv2 or later
 
