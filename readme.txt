@@ -1,6 +1,6 @@
-=== 30suns Service Health Dashboard ===
+=== 30suns Hosted Status Page ===
 Contributors: sozot
-Tags: status, status page, service health, status dashboard, service health dashboard
+Tags: status, status page, hosted status page, service health, status dashboard, service health dashboard
 Requires at least: 3.0
 Tested up to: 4.0
 Donate link: https://sozot.com/
@@ -13,9 +13,9 @@ License: GPLv2 or later
 
 30suns makes it easy to start publishing incident reports on a status page.
 
-This plugin makes it easy to embed your 30suns service health dashboard into a normal WordPress page or post using a <code>[thirtysuns]</code> shortcode. You'll need a [30suns.com Username](http://30suns.com/) to use it and you will need to define at least one service. Usernames are free to try with paid subscriptions available for businesses and commercial sites.
+This plugin makes it easy to embed your 30suns hosted status page into a normal WordPress page or post using a <code>[thirtysuns]</code> shortcode. You'll need a [30suns.com Username](http://30suns.com/) to use it and you will need to define at least one service. Usernames are free to try with paid subscriptions available for businesses and commercial sites.
 
-= Benefits of Publishing a Service Health Dashboard =
+= Benefits of Publishing a Hosted Status Page =
 
 If your organization is a solution provider, you understand that downtime can reduce customer confidence and impair your reputation. Hopefully, you can keep downtime to a minimum, but if you do have service outages, it's imperative that you provide your users with access to real-time status updates. 
 
@@ -23,7 +23,7 @@ Knowing your own service status is the first step and there are plenty of excell
 
 30suns completes the monitoring and reporting loop by providing your users with a centralized service health dashboard similar to the status pages that many professional platform and service providers publish, e.g., [Amazon Web Services](http://status.aws.amazon.com/), [Google Apps](http://www.google.com/appsstatus) and [Windows Azure](http://www.windowsazure.com/en-us/support/service-dashboard/).
 
-Publishing a service heath dashboard will improve communication with your users and can even result in fewer support requests during outages.
+Publishing a status page will improve communication with your users and can even result in fewer support requests during outages.
 
 30suns hosted status page includes additional benefits such as:
 
@@ -43,8 +43,8 @@ That's it! When you publish incident reports on 30suns they will be immediately 
 
 == Screenshots ==
 
-1. An example of a service health dashboard on 30suns.com for Amazon Web Services. When you register, you will be able to list your own services and logo on your public profile page.
-2. An example of embedding a service health dashboard within WordPress using the default Twenty Twelve theme, this plugin and the sample Amazon Web Services dashboard. When you activate the plugin and add your 30suns username in the settings area you can embed your 30suns dashboard within any page on your site using the [thirtysuns] shortcode.
+1. An example of a hosted status page on 30suns.com for Amazon Web Services. When you register, you will be able to list your own services and logo on your public profile page.
+2. An example of embedding a hosted status page within WordPress using the default Twenty Twelve theme, this plugin and the sample Amazon Web Services dashboard. When you activate the plugin and add your 30suns username in the settings area you can embed your 30suns dashboard within any page on your site using the [thirtysuns] shortcode.
 
 == Changelog ==
 = 1.1 =
